@@ -119,7 +119,7 @@ Attack Successfully Sent To Server
 [🍁] Port : {port}
 [🍁] Duration : {time_attack}
 [🍁] Method : https-normal
-[🍁] VIP : {is_vip}
+[🍁] VIP : {is_false}
 [🍁] UserName : {username}
 Notes : Don't Spam Attacks
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -143,7 +143,7 @@ Attack Successfully Sent To Server
 [🍁] Port : {port}
 [🍁] Duration : {time_attack}
 [🍁] Method : https-bypass
-[🍁] VIP : {is_vip}
+[🍁] VIP : {is_false}
 [🍁] UserName : {username}
 Notes : Don't Spam Attacks
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -167,7 +167,7 @@ Attack Successfully Sent To Server
 [🍁] Port : {port}
 [🍁] Duration : {time_attack}
 [🍁] Method : https-destroy
-[🍁] VIP : {is_vip}
+[🍁] VIP : {is_false}
 [🍁] UserName : {username}
 Notes : Don't Spam Attacks
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -191,7 +191,7 @@ Attack Successfully Sent To Server
 [🍁] Port : {port}
 [🍁] Duration : {time_attack}
 [🍁] Method : https-star
-[🍁] VIP : {is_vip}
+[🍁] VIP : {is_false}
 [🍁] UserName : {username}
 Notes : Don't Spam Attacks
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -393,7 +393,7 @@ def plan(message):
   👤 Welcome To Account Menu 👤
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 [🌸] UserName: {username}
-[🍀] Vip: {is_vip}
+[🍀] Vip: {is_false}
 [🍁] Max_Time: {max_time}s
 [🌺] Cooldown: {cooldown}s
 [🏵️] Expiry: {expiry}
