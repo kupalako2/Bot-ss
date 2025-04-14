@@ -1,13 +1,13 @@
 {
-    "help": true,
-    "method": true,
-    "https-normal": true,
-    "https-bypass": true,
-    "https-destroy": true,
-    "https-star": true,
-    "attack": true,
-    "addvip": true,
-    "rmvip": true,
-    "plan": true,
-    "baotritatca": true
+    "help": false,
+    "method": false,
+    "https-normal": false,
+    "https-bypass": false,
+    "https-destroy": false,
+    "https-star": false,
+    "attack": false,
+    "addvip": false,
+    "rmvip": false,
+    "plan": false,
+    "baotritatca": false
 }
